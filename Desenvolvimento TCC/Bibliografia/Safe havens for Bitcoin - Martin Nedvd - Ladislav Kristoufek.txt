@@ -1,0 +1,17 @@
+O artigo examina se ouro, petróleo cru e o mercado de ações são alternativas ao bitcoin
+Investidores de criptoativos encontram grandes riscos quando interagindo com esse mercado por longos periodos, tornando interessante a diversificação do investimento, onde os mercados tradicionais como de ouro, petróleo e ações tornam-se atrativos.
+Achados de que o bitcoin varia juntamente com o mercado de ações, enquanto que os mercados de ouro e petróleo apresentam oportunidades de diversificação.
+Bitcoin estão gradativamente se integrando aos portifolios dos investidores, o que gera a necessidade de proteção contra movimentações extremas e de diversificação do risco, que tem importantes papeis na tomada de decisão.
+Bitcoin como uma potencial alternativa aos ativos financeiros tradicionais é um dos tópicos mais frequentemente examinados pela literatura especializada.
+Existe uma concepção de que o bitcoin seria o "ouro digital", por acreditar-se que essa criptomoeda, e criptoativos no geral, estão desconexos ao mercado financeiro tradicional. A pandemia de covid-19 mostrou, entretanto, que essa narrativa é majoritariamente falsa, uma vez que a movimentação dos criptoativos seguiu a dos mercados financeiros, com depreciação nos estagios iniciais da pandemia seguidos de uma apreciação. (Kistoufek, L. 2020. Grandpa, grandpa, tell me the one about bitcoin being a safe haven: new evidence from the covid-19 pandemic) (Conlon, T., McGee, R., 2020. Safe haven or risky hazard? bitcoin during the covid-19 bear market. Finance Res. Lett. 35, 101607.) 
+(Chemkha, R., BenSaida, A., Ghorbel, A., Tayachi, T., 2021. Hedge and safe haven properties during COVID-19: Evidence from bitcoin and gold. Q. Rev. Econ.Finance 82 (November), 71–85.) (Wen, F., Tong, X., Ren, X., 2022. Gold or bitcoin, which is the safe haven during the COVID-19 pandemic? Int. Rev. Financ. Anal. 81 (May), 102121.)
+
+Apesar de ganhos significativos durante os ultimos anos pós pandemia, investidores de criptoativos encaram a questão de como protegerem suas posições.
+Investidores de criptoativos enfrentam alto risco quando segurando suas posições por longos períodos, mostrando-se interessantes a diversificação fora do mercado de criptoativos.
+O artigo encontra indicios de que petróleo cru e especialmente ouro são fortes candidatos a alternativas seguras ao bitcoin em eventos extremos.
+Retornos de criptoativos são quase sempre heterocedasticos (Bariviera, A.F., Basgall, M.J., Hasperué, W., Naiouf, M., 2017. Some stylized facts of the bitcoin market. Phys. A 484, 82–90) (Zhang, W., Wang, D., Shen, P.W., 2018. Some stylized facts of the cryptocurrency market. Appl. Econ. 50 (55), 5950–5965)
+
+Testou estacionaridade com dickey-fuller test (Dickey, D.A., Fuller, W.A., 1979. Distribution of the estimators for autoregressive time series with a unit root. J. Amer. Statist. Assoc. 74 (366a), 427–431.)
+
+Em última instância, os achados do artigo apontam para ouro e petróleo cru como alternativas de investimento em cenários onde os retornos do bitcoin estejam performando negativamente, em especial em eventos extremos.
+TerraUSD fiasco (2022) mostra a importância de se buscar alternativas fora do mercado de cripto para diversificação de portfolio de criptoinvestidores.
