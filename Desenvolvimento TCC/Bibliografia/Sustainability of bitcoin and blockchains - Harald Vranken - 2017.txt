@@ -1,0 +1,38 @@
+Bitcoin é introduzido em 2008.
+Desde então, adquiri popularidade.
+Transações no sistema são guardadas em uma espécie de "caderneta pública", a blockchain.
+A caderneta por sua vez é guardada em uma rede "peer-to-peer" descentralizada.
+Devido ao caráter publico da blockchain, existe transparência nas transações
+A tecnologia blockchain garante que toda transação é a prova de falhas, utilizando-se de um processo computacionalmente intensivo
+chamado de "mineração".
+Esse algoritmo de prova de trabalho demanda muita energia
+Moedas antigamente eram lastreadas em ouro, o que atualmente não é mais o caso, onde moedas como o dolar se lastreiam em confiança
+Bitcoin e outras criptomoedas surgem como alternativa as fraquezas das moedas fiduciárias(lastro em confiança) e lastreadas em ouro
+Bitcoin Foundation não age como centralizadora, apesar de propor padronizações, governança e promoção sobre o bitcoin
+Bitcoin se refere ao sistema, e bitcoin (com b minusculo) ou BTC se referem a moeda.
+Por ser moeda virtual, não apresenta representação fisica
+Seu ecossistema é uma rede de usuaários que se comunicam entre si usando o protocolo bitcoin via internet.
+O protocolo bitcoin é um software livre que permite transações e afins.
+Bitcoin pode apresentar risco a estabilidade do sistema financeiro atual
+Enquanto que sua volatilidade gera preocupações
+Texto com foco na sustentabilidade no contexto ambiental e economico
+Tenta responder se o sistema bitcoin é sustentável dado seu custo energético no processo de mineração
+A blockchain contem todo o histórico de transações, e cada nodo na rede guarda completa ou parcialmente uma cópia da blockchain.
+Cada nodo independentemente verifica as transações recebidas, sua validade, e adiciona a uma piscina de transações validas
+AS transações válidas são adicionadas a blockchain em um processo chamado de mineração. 
+Cada nodo coleta um numero de transações válidas e tenta gerar um hash criptografado
+Essa criptografia é condicionada, e para se achar o hash que se adeque a essas condições impostas pelo sistema bitcoin é necessário poder computacional.
+Isso gera uma corrida entre os nodos na rede para achar o hash. O primeiro que acha o hash, ganha o bloco, o que significa que o mesmo é adicionado a blockchain e propagado pela rede.
+Computar um hash é dificil, verificar sua validade é facil, quando um nodo recebe um novo bloco válido, para a mineração do bloco atual e inicia a mineração para o novo bloco, uma vez que o atual foi validado pelo hash
+O nodo que ganhou o bloco recebe uma recompensa, uma quantidade fixada de novos bitcoins.
+Dessa forma, a "cunhagem"/geração de novos bitcoins é feita pelo processo de mineração.
+Em economia bictoin é considerado dinheiro até certo ponto, já que oferece unidade de contagem, meio de pagamento, reserva de valor. Pode-se argumentar que também apresenta valor intrinseco devido ao seu custo computacional de "cunhagem"/produção
+Cada bloco na blockchain não contem apenas transações, mas também o hash do bloco anterior. Isso garante que o histórico é fixo, uma vez que, para se alterar blocos anteriores, seria necessário recalcular todos os hashs até o bloco atual, e como novos blocos são adicionados constantemente, isso implicaria na necessidade de se calcular até o bloco mais recente na rede.
+A recompensa inicial para a mineração bem sucedida era de 50 btc. A recompensa é dividida em 2 (halved) a cada 210000 blocos. Esse processo se extenderá até que a divisão por 2 do valor pago torne-se menor que 10^-8 BTC, que é a menor unidade de bitcoin, conhecido também como satoshi. Depois disso, as taxas das transações deverão fornecer o incentivo para a continuação da mineração de novos blocos.
+O protocolo ajusta a dificuldade do hash para que, em média, um novo bloco seja minerado a cada 10 minutos.
+A corrida para mineração de bitcoin exige um investimento em capital crescente, o que cria barreira de entrada para novos mineradores, tornando o mercado oligopolista.
+Tornar o mercado de bitcoin oligopolista apresenta riscos. A maior parte dos blocos minerados é proveniente da china, que é sensível a intervenções governamentais. Além disso, essa centralização é contrária ao principio de descentralização proposto pela moeda.
+Como o mercado de mineração é competitivo, apenas os mineiros que aplicam os melhores equipamentes sobreviverão nesse mercado
+
+
+

@@ -1,0 +1,42 @@
+BOLLORSLEV, Tim. GENERALIZED AUTOREGRESSIVE CONDITIONAL
+HETEROSKEDASTICITY. Journal of Econometrics, v. 31, p. 307-327, 1986.
+
+
+AIKAIKE, Hirotugu. A New Look at the Statistical Model Identification. IEEE
+TRANSACTIONS ON AUTOMATIC CONTROL, [s. l.], v. AC-19, n. 6, p. 716-723,
+1974.
+
+
+Autor(es). Ano de publicação. Título do trabalho citado. Nome da revista ou periódico científico. volume (número da edição): páginas inicial e final do trabalho.
+
+
+Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio
+
+
+halving critpto
+
+ler pelo menos 10 artigos sobre alguma cripto
+
+4 partes
+30 Contextualização (mercado, bitcoin, halving, bify)
+30 Importância (buscar oq outros autores falam do tema, tom incisivo)
+30 Relevância (quao relevante são, valores, sua bolha, como influencia a economia brasileira, evolução de usuarios, qtd de moedas, corretoras)
+10 O que eu ja fiz, amarrada, dessa forma, o objetivo desse trabalho é tal (transformar em uma pergunta problema, em uma linha, passível de resposta sim ou não). Como é como provo a resposta
+
+escolher 1 cripto só
+fazer análise bem feita
+criaria cenários
+variáveis macroeconomicas
+taxa de juros norte americana relacionada a cripto
+cpi eua
+
+frequencia mensal, minimo 100 observações
+
+materiais e metodos dividir em 2 
+material explica base de dados
+1 topico para cada método (não descer para a matematica) explicar pontos fortes e fracos de cada 1
+
+Introdução de 2 paginas
+
+
+Pergunta que pensei: São modelos de deep learning mais acertivos na previsão de bitcoin quando comparados a modelos estatísticos tradicionais?

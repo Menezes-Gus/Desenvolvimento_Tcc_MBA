@@ -1,0 +1,3 @@
+Modelo de Previsão de Mercado de Ações:
+
+    Expanda seu escopo para incluir a previsão de preços de ações usando RNNs. Compare o desempenho do modelo com métodos tradicionais de previsão financeira.
