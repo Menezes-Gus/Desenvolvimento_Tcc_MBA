@@ -1,0 +1,11 @@
+Previsão financeira a muito tempo desempenha um papel importante na indústria financeira
+Bitcoin tem se mostrado um investimento atrativo nos anos recentes, capaz de gerar muito lucro ou perda para investidores, além de possuir a característica de não ser controlado por governos centralizados, baseando-se em blockchain
+Lidar com séries temporais requer atenção acerca de como processar os dados devido a sua sequencialidade no tempo, que pode apresentar sazonalidade, tendencia e componentes estacionario que não são vistos em dados agnosticos ao tempo.
+GRU mostrou melhor performance que LSTM
+Redes LSTM são um tipo distinto de RNN capazes de aprender dependências de longo prazo e são muito populares para se trabalhar com dados sequenciais, como as séries temporais.
+Células LSTM usam um input gate (portão de entrada), um forget gate (portão de esquecimento) e um output gate (portão de saída). Esses portões definem se os dados podem passar ou não. Portoes também possibilitam a rede a aprender o que salvar, o que esquecer, o que relembrar, o que prestar atenção e o que produzir.
+O estado da célula e o estado oculto são usados para a obtenção de dados para processamento no próximo estado.
+GRU também são redes neurais recorrentes, assim como LSTM. ENtretanto, apresenta uma estrutura menos complicada. Não possui um portão de saída, apresentando um portão de atualização e de reinicio. Esses portões são vetores que decidem qual informação deve ser passada para a saída. O portão de reinicio define como combinar a nova entrada com a memória anterior. A decisão de o quanto guardar da memória anterior é realizada pelo portão de atualização.
+Scherbakov (Shcherbakov, M., Brebels, A., Shcherbakova, N., Tyukov, A., Janovsky, T., and Kamaev, V. A survey of
+forecast error measures. World Applied Sciences Journal vol. 24, pp. 171–176, 2013.) apresenta comparação entre mensurações de erros em previsões, com suas desvantagens e recomendações baseadas em características dos dados das séries temporais. Ele diz que SMAPE (Symetric Mean Absolute Percentage Error) é uma boa medida para séries temporais, além de indicar também MAPE (Mean Absolute Percentage Error) e RMSE 
+ACF e PACF mostra não estacionaridade nos dados, e a decomposição sazonal mostra uma forte tendencia e uma pequena sazonalidade.

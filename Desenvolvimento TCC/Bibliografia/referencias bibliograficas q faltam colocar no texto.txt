@@ -1,0 +1,22 @@
+Patel et al
+
+(Patel et al., 2020; Vranken, 2017)
+(Vranken, 2017)
+(Haber e Stornetta, 1991)
+(Forbes, 2024)
+(Shen et al., 2020)
+(Nedvd e Krisfoufek, 2023)
+
+
+(Dyhrberg, 2015) - compara bitcoin com ouro e dolar usando GARCH. Encontra que a criptomoeda pode ser vantajosa na gestão de riscos de investidores, antecipando possíveis choques negativos no mercado convencional
+Dyhrberg, Anne Haubo. 2015. Bitcoin, gold and the dollar: A GARCH volatility analysis.
+Finance Research Letters 1-8.
+
+(Phillip et al., 2017) - analisaram 224 criptomoedas e encontraram influências de longo prazo na determinação da volatilidade desses ativos
+Phillip, Andrew; Chan, Jennifer; Peiris, Shelton. 2017. A new look at Cryptocurrencies.
+Economics Letters.
+
+(Katsiampa, 2017) - construiu um comparativo de modelos da familia garch aplicados ao bitcoin e encontrou melhore desempenho na utilização de modelos capazes de lidar com memoria tanto de curto quanto de longo prazo
+Katsiampa, Paraskevi. 2017. Volatility estimation for Bitcoin: A comparison of GARCH
+models. Economics Letters.
+
