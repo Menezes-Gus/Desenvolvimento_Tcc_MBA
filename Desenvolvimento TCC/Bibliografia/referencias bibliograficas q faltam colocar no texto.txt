@@ -1,12 +1,12 @@
-Patel et al
+(Patel et al., 2020) - Patel, M.M.; Tanwar, S.; Gupta, R.; Kumar, N. 2020. A Deep Learning-based Cryptocurrency Price Prediction Scheme for Financial Institutions. Jornal of Information Security and Applications 55.
 
 (Patel et al., 2020; Vranken, 2017)
-(Vranken, 2017)
-(Haber e Stornetta, 1991)
+(Vranken, 2017) - Vrankin, H. 2017. Sustainability of bitcoin and blockchains. Current Opinion in Environmental Sustainability 28: 1-9.
 (Forbes, 2024)
-(Shen et al., 2020)
-(Nedvd e Krisfoufek, 2023)
+(Shen et al., 2020) - Shen, Z.; Qing, W.; Leatham, D.J. 2020. Bitcoin Return Volatility Forecasting: A Comparative Study between GARCH and RNN. Journal of Risk and Financial Management 14(7): 337.
+(Nedvd e Krisfoufek, 2023) - Nedved, M.; Krisfoufek, L. 2023. Safe havens for Bitcoin. Finance Research Letters 51.
 
+A Deep Learning-based Cryptocurrency Price Prediction Scheme for Financial Institutions
 
 (Dyhrberg, 2015) - compara bitcoin com ouro e dolar usando GARCH. Encontra que a criptomoeda pode ser vantajosa na gestão de riscos de investidores, antecipando possíveis choques negativos no mercado convencional
 Dyhrberg, Anne Haubo. 2015. Bitcoin, gold and the dollar: A GARCH volatility analysis.
@@ -20,3 +20,42 @@ Economics Letters.
 Katsiampa, Paraskevi. 2017. Volatility estimation for Bitcoin: A comparison of GARCH
 models. Economics Letters.
 
+https://coinmarketcap.com/currencies/bitcoin/historical-data/
+
+Bitcoin price today, BTC to USD live price, marketcap and chart
+CoinMarketCap
+
+24-03-2024
+
+131 entradas
+119 entradas pra treino
+12 entradas para teste
+2013-04
+2023-02
+2024-02
+
+
+Arch. 2024. ARCH models in Python. Disponível em: <https://github.com/bashtage/arch>. Acesso em: 24 mar. 2024.
+
+Keras. 2024. Keras: Deep Learning for humans. Disponível em: <https://keras.io/>. Acesso em: 24 mar. 2024.
+
+CoinMarketCap. 2024. Bitcoin price today, BTC to USD live price, marketcap and chart. Disponível em: <https://coinmarketcap.com/currencies/bitcoin/historical-data/>. Acesso em: 24 mar. 2024.
+
+
+
+GitHub - bashtage/arch: ARCH models in Python
+Arch. Disponível em: https://github.com/bashtage/arch. Acesso em: 24 mar. 2024.
+
+Keras: Deep Learning for humans
+Keras Disponível em: https://keras.io/. Acesso em: 24 mar. 2024.
+
+
+Shcherbakov, M., Brebels, A., Shcherbakova, N., Tyukov, A., Janovsky, T., and Kamaev, V. 2013. A survey of
+forecast error measures. World Applied Sciences Journal 24: 171–176.
+
+Autores sugerem que é recomendável a utilização de mais de uma categoria de critérios de mensuração de erro
+Se a avaliação da performance de previsão for aplicadas a séries temporais com a mesma escala, é sugerida a utilização de modelos como RMSE e MAE.
+sMAPE
+
+Root Mean Square Error
+Symmetric Mean Absolute Percentage Error
