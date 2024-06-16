@@ -40,3 +40,59 @@ Introdução de 2 paginas
 
 
 Pergunta que pensei: São modelos de deep learning mais acertivos na previsão de bitcoin quando comparados a modelos estatísticos tradicionais?
+
+
+##########################################################################################
+
+Criar tópicos para cada método
+
+"não estou comparando modelos, estou comparando projeções"
+
+Resultados esperados - precisa de uma decomposição temporal (antes de tudo, antes de usar log retorno)
+Discutir a variável
+De acordo com quem
+
+
+Taxa de juros dos estados unidos (https://fred.stlouisfed.org/series/FEDFUNDS)
+Federal Reserve Bank of ST. Louis
+
+
+#param_grid = {
+#    'units': [50, 100],
+#    'dropout_rate': [0.2, 0.3],
+#    'learning_rate': [0.001, 0.01],
+#    'batch_size': [32, 64],
+#    'epochs': [50, 100]
+#}
+
+# Parâmetros para Grid Search
+
+    'units': [50, 75, 100],
+    'dropout_rate': [0.2, 0.3, 0.5],
+    'learning_rate': [0.001, 0.01],
+    'batch_size': [32, 64],
+    'epochs': [25, 50, 100, 200]
+
+Amplamente utilizados em diferentes campos
+Indicado para séries temporais
+
+RMSE
+RMSE penaliza erros grandes, uma vez que em seu processo de cálculo, eleva o erro ao quadrado antes de extrair a raiz. Isso também o torna bastante sensível a outliers. 
+É também uma métrica que apresenta valores na mesma unidade de medida dos dados originais, o que propicia maior facilidade de interpretação.
+Além disso, normaliza erros positivos e negativos.
+RMSE tem algumas limitações, em especial, não lida bem com dados em diferentes magnitudes.
+
+
+sMAPE
+sMAPE é uma métrica normalizada, dessa forma, apresenta valores em percentual, tornando a comparação entre séries temporais em diferentes magnitudes possível, independente de suas medidas.
+Também é uma métrica simétrica, sendo capaz de panalizar igualmente desvios positivos e negativos.
+Dessa forma, é uma métrica que cobre as fraquezas de RMSE
+
+A utilização das 2 métricas propocia uma análise mais completa, robusta e confiável, por abordar diferentes aspectos do erro.
+
+
+Goodwin e Lawton, 1999
+Hyndman e Koehler, 2006
+Shcherbakov et al., 2013
+
+(Goodwin e Lawton, 1999; Hyndman e Koehler, 2006; Shcherbakov et al., 2013)

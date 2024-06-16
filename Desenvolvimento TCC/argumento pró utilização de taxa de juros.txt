@@ -1,0 +1,23 @@
+A note on the bitcoin and fed funds rate (2022)
+Sofiane Aboura
+
+Encontra relação entre a taxa de juros americana e o valor do bitcoin
+
+Bitcoin, gold and the dollar – A GARCH volatility analysis (2015)
+Anne Haubo Dyhrberg
+
+Bitcoin reage significativamente a taxa de juros do FED, o que indica que a criptomoeda age similarmente, em certo grau, a moedas fiduciarias
+
+
+The Asymmetric Effects of the Interest Rate on the Bitcoin Price (2023)
+Nezir KÖSE
+Emre ÜNAL
+
+Encontraram relação assimétrica entre a taxa de juros do FED e o valor do bitcoin.
+A assimetria se da pelo fato de choques negativos na taxa de juros real do FED criaram maior influencia no preço do bitcoin quando comparados aos choques positivos
+Os choques negativos da taxa de juros real se mostraram a variável mais explicativa do preço do bitcoin dentre as analisadas no paper.
+os efeitos assimétricos da taxa de juros sobre o preço do bitcoin foram analizados com dados mensais.
+
+
+
+Vou precisar fazer uma decomposição temporal, vou também precisar plotar as séries de juros com a de cripto pra argumentar encima
